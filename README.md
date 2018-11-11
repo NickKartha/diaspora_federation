@@ -1,6 +1,8 @@
 # diaspora* federation library
 ### A library that provides functionalities needed for the diaspora\* federation protocol
 
+This branch is not to send a PR until after 2019; I'm still learning Ruby. I might break something here.
+
 **master:** [![Build Status master](https://travis-ci.org/diaspora/diaspora_federation.svg?branch=master)](https://travis-ci.org/diaspora/diaspora_federation) |
 **develop:** [![Build Status develop](https://travis-ci.org/diaspora/diaspora_federation.svg?branch=develop)](https://travis-ci.org/diaspora/diaspora_federation)
 
